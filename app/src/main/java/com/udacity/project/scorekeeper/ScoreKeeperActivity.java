@@ -27,6 +27,7 @@ public class ScoreKeeperActivity extends AppCompatActivity {
     // Tracks the score for Team B
     int mScoreTeamB = 0;
 
+    // End game banner view.
     TextView mEndGameTextView;
 
     @Override
