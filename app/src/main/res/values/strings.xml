@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="action_end_game">End Game</string>
+
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="reset_score">Reset</string>
+    <string name="start_score">0</string>
+
+    <string name="add_3">+3 Points</string>
+    <string name="add_2">+2 Points</string>
+    <string name="free_throw">Free throw</string>
+
+    <string name="end_banner">Congratulations for the winning Team - %s!!</string>
+    <string name="end_banner_draw">The match has ended as a Draw!!</string>
+</resources>
